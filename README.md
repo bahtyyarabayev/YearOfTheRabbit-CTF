@@ -9,7 +9,7 @@
 * Dirbuster
 
 ## First, we check the IP address in our browser. Then we scan for open ports with nmap.
-![giriştarama](imgsrc\giriştarama.PNG)
+![giriştarama](https://github.com/bahtyyarabayev/YearOfTheRabbit_CTF/assets/92421009/5def245f-d5ea-418b-abcc-db6298f73530)
 
 
 ## As a result of the scan, ports 21, 22 and 80 are open
